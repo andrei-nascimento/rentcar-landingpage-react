@@ -1,0 +1,51 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.rentcar {
+    width: 20vh;
+}
+
+.other-pages {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 70vh;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.links {
+    color: white;
+    font-weight: 500;
+}
+
+.language {
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.pt {
+    padding-left: 2px;
+}
+
+.sign-up {
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #17B3A6;
+    border-radius: 8px;
+    padding: 8px
+}
+
+.sign-up-button {
+    color: white;
+    font-weight: 800;
+}
