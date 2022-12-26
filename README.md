@@ -1,4 +1,4 @@
-# Rentcar Landing Page
+# Rentcar - Landing Page
 
 Pensando em ampliar meu portfólio, criei uma Landing Page do projeto que estou desenvolvendo em React Native, o Rentcar.
 
