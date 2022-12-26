@@ -73,6 +73,8 @@ input::placeholder {
     border-style: solid;
     border-radius: 8px;
     border-color: white;
+
+    cursor: pointer;
 }
 
 .done-button {
@@ -102,5 +104,5 @@ input::placeholder {
 }
 
 .full-space {
-    padding: 23%
+    padding: 31%
 }

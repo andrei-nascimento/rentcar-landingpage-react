@@ -7,6 +7,7 @@
 .logo {
     padding-top: 16px;
     padding-bottom: 16px;
+    cursor: pointer;
 }
 
 .rentcar {
@@ -25,12 +26,14 @@
 .links {
     color: white;
     font-weight: 500;
+    cursor: pointer;
 }
 
 .language {
     display: flex;
     align-items: center;
     color: white;
+    cursor: pointer;
 }
 
 .pt {
@@ -42,7 +45,8 @@
     margin-right: 50px;
     background-color: #17B3A6;
     border-radius: 8px;
-    padding: 8px
+    padding: 8px;
+    cursor: pointer;
 }
 
 .sign-up-button {
